@@ -23,11 +23,7 @@ Only when the correct shares are combined can the original image be reconstructe
 meaningful information is exposed from any single share. This technique is particularly useful for 
 "authentication systems" and "secure communications", where privacy and data integrity are critical.
 
-### Related Documents
-The supporting documents can be found in the [`paper/`](./paper/) directory:
-- 📘 [Published Paper](./paper/Published_Paper.pdf)
-- 🏅 [Publication Certificate](./paper/Certificate.pdf)
-- ✅ [Acceptance Letter](./paper/Acceptance_Letter.pdf)
+
 
 ## Installation
 
